@@ -45,7 +45,7 @@ http://rr2.dens.tv/s/s19/index2.m3u8
 http://rr2.dens.tv/s/s24/index2.m3u8
 #EXTINF:0, group-title="ENTERTAINMENT",K DRAMA HD
 http://rr2.dens.tv/s/s42/index2.m3u8
-#EXTINF:0, group-title="Entertainment",TIC
+#EXTINF:0, group-title="ENTERTAINMENT",TIC
 http://202.93.133.3:1935/SVR1/ch_tic.stream_720p/playlist.m3u8
 
 
@@ -203,24 +203,23 @@ http://edge.telin.swiftserve.com/live/LiveOONA/startup-93db06bd3f82/playlist.m3u
 #MUSIC
 #EXTINF:0,group-title="MUSIC",SONY ROX HD
 http://mhms5.airtel.tv/PLTV/88888888/224/3221226204/index.m3u8
-#EXTINF:0, group-title="Music",HEART TV HD
+#EXTINF:0,group-title="MUSIC",HEART TV HD
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
-
-#EXTINF:0, group-title="Music",M2O
+#EXTINF:0,group-title="MUSIC",M2O
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-#EXTINF:0, group-title="Music",HIT TV
+#EXTINF:0,group-title="MUSIC",HIT TV
 http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8
-#EXTINF:0, group-title="Music",ONE HD
+#EXTINF:0,group-title="MUSIC",ONE HD
 rtmp://rtmp.one.by/HD/1muz
-#EXTINF:0, group-title="Music",THE CAPITAL
+#EXTINF:0,group-title="MUSIC",THE CAPITAL
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
-#EXTINF:0, group-title="Music",MUSIC TOP
+#EXTINF:0,group-title="MUSIC",MUSIC TOP
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
-#EXTINF:0, group-title="Music",KLIK MUSIC
+#EXTINF:0,group-title="MUSIC",KLIK MUSIC
 http://stream1.ninmedia.tv/live/nin-klik-music.stream_nin/playlist.m3u8
-#EXTINF:0, group-title="Music",MALEO
+#EXTINF:0,group-title="MUSIC",MALEO
 http://stream1.ninmedia.tv/live/nin-bmw.stream_nin/playlist.m3u8
-#EXTINF:0, group-title="Music",SMI
+#EXTINF:0,group-title="MUSIC",SMI
 http://stream1.ninmedia.tv/live/nin-smi.stream_nin/playlist.m3u8
 
 
