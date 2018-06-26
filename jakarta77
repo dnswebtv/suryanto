@@ -5,7 +5,7 @@
 http://rr2.dens.tv/s/s17/index2.m3u8
 #EXTINF:0, group-title="NEWS",Channel News Asia	
 http://rr.dens.tv/h/h29/index2.m3u8
-#EXTINF:0, group-title="News",CNN INDONESIA
+#EXTINF:0, group-title="NEWS",CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:0, group-title="NEWS",Euronews		
 http://rr2.dens.tv/s/s15/index2.m3u8
@@ -13,9 +13,9 @@ http://rr2.dens.tv/s/s15/index2.m3u8
 http://rr2.dens.tv/s/s22/index2.m3u8
 #EXTINF:0, group-title="NEWS",NHK World			
 http://rr.dens.tv/h/h23/index2.m3u8 
-#EXTINF:0, group-title="News",BLOOMBERG
+#EXTINF:0, group-title="NEWS",BLOOMBERG
 http://cshms4.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226082/index.m3u8
-#EXTINF:0, group-title="News",FOX BUSINESS
+#EXTINF:0, group-title="NEWS",FOX BUSINESS
 http://149.56.26.63:1935/foxbus/myStream/playlist.m3u8
 
 #ENTERTAINMENT
