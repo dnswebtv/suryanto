@@ -1,6 +1,4 @@
 #EXTM3U
-
-
 #EXTINF:0, group-title="NEWS",Al Jazeera English	
 http://rr2.dens.tv/s/s17/index2.m3u8
 #EXTINF:0, group-title="NEWS",Channel News Asia	
@@ -47,7 +45,6 @@ http://rr2.dens.tv/s/s24/index2.m3u8
 http://rr2.dens.tv/s/s42/index2.m3u8
 #EXTINF:0, group-title="ENTERTAINMENT",TIC
 http://202.93.133.3:1935/SVR1/ch_tic.stream_720p/playlist.m3u8
-
 
 #SPORTS
 #EXTINF:0, group-title="SPORTS",FOX SPORTS 1
@@ -191,7 +188,6 @@ http://rr2.dens.tv/s/s11/index2.m3u8
 #EXTINF:0, group-title="LOCAL",JTV	
 http://122.248.32.234:1935/ch2/myStream/live.m3u8
 
-
 #LIFESTYLE
 #EXTINF:0, group-title="LIFESTYLE",BIZNET LIFESTYLE
 http://livestream.biznetvideo.net/biznet_lifestyle/_definst_/stream_lifestyle/playlist.m3u8?tokenbiznetlivestarttime=0&tokenbiznetliveendtime=0&tokenbiznetliveCustomParameter=myParameter&tokenbiznetlivehash=phYcOa9sHLprUoVkghw5A4nB6SEfqb8Rx8vcUMBG9C6ZeGUfrUtQLu2nBYo6d5RE
@@ -221,7 +217,6 @@ http://stream1.ninmedia.tv/live/nin-klik-music.stream_nin/playlist.m3u8
 http://stream1.ninmedia.tv/live/nin-bmw.stream_nin/playlist.m3u8
 #EXTINF:0,group-title="MUSIC",SMI
 http://stream1.ninmedia.tv/live/nin-smi.stream_nin/playlist.m3u8
-
 
 #DOCUMENTARY
 #EXTINF:0,group-title="DOCUMENTARY",ANIMAL PLANET HD WORLD
